@@ -1,5 +1,5 @@
 sp = {}
-
+# comment
 
 def function_add(b, *aa): # b - class, aa list of parent
     l = list(aa)
